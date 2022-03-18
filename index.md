@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# Lock Pix
 
-You can use the [editor on GitHub](https://github.com/projetopix/docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Lock pix é um aplicativo para guardar chaves pix pessoais e de contatos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Alunos
+-- Matheus Cavalcante 
+-- Matheus Douglas
+-- Italo
+-- Pedro
+## Front-End Features
 
-### Markdown
+[x] Tela de login 
+[x] Tela de listagem de chaves
+[x] Tela de cadastro de chaves pix pessoal
+[x] Tela de cadastro de chaves pix de contatos
+[x] Integração da lista de bancos na tela de pessoal
+[ ] Cadastrar e registrar usuário
+[ ] Crud chave pix pessoal
+[ ] Crud chave pix de contato
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Back-end Funcionalidades
 
-# Header 1
-## Header 2
-### Header 3
+[x] Integração de api externa com lista de bancos
+[x] Validação de campo de pix
+[x] Crud de contatos
+[x] Verificar Ip para bloquear usuário
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
+
+
+
+## O que irá usar?
+
+
+
+| Tecnologias | O que é? |
+| ------ | ------ |
+| Dart | Linguagem |
+| Flutter | Framework |
+| Node.js | Framework |
+| MongoDB | Banco de dados |
+| Git | Controle de versão |
+| Github | Repositório do projeto |
+| Markdown | Documentação do projeto|
+
+
+
+## Como rodar o mobile?
+
+Instale o flutter seguindo as instruções da [documentação](https://docs.flutter.dev/get-started/install) oficial
+
+Instale as dependências com
+
+```sh
+flutter pub get
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para rodar o projeto
 
-### Jekyll Themes
+```sh
+flutter pub run
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/projetopix/docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
