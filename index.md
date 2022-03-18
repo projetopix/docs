@@ -3,28 +3,28 @@
 Lock pix é um aplicativo para guardar chaves pix pessoais e de contatos.
 
 ## Alunos
--- Matheus Cavalcante 
--- Matheus Douglas
--- Italo
--- Pedro
+- Matheus Cavalcante 
+- Matheus Douglas
+- Italo
+- Pedro
 ## Front-End Features
 
-[x] Tela de login 
-[x] Tela de listagem de chaves
-[x] Tela de cadastro de chaves pix pessoal
-[x] Tela de cadastro de chaves pix de contatos
-[x] Integração da lista de bancos na tela de pessoal
-[ ] Cadastrar e registrar usuário
-[ ] Crud chave pix pessoal
-[ ] Crud chave pix de contato
+- [x] Tela de login 
+- [x] Tela de listagem de chaves
+- [x] Tela de cadastro de chaves pix pessoal
+- [x] Tela de cadastro de chaves pix de contatos
+- [x] Integração da lista de bancos na tela de pessoal
+- [ ] Cadastrar e registrar usuário
+- [ ] Crud chave pix pessoal
+- [ ] Crud chave pix de contato
 
 
 ## Back-end Funcionalidades
 
-[x] Integração de api externa com lista de bancos
-[x] Validação de campo de pix
-[x] Crud de contatos
-[x] Verificar Ip para bloquear usuário
+- [x] Integração de api externa com lista de bancos
+- [x] Validação de campo de pix
+- [x] Crud de contatos
+- [x] Verificar Ip para bloquear usuário
 
 
 
