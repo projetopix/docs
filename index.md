@@ -7,6 +7,7 @@ Lock pix é um aplicativo para guardar chaves pix pessoais e de contatos.
 - Matheus Douglas
 - Italo
 - Pedro
+
 ## Front-End Features
 
 - [x] Tela de login 
